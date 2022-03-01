@@ -24,7 +24,6 @@
     "gatsby-transformer-sharp": "^2.2.20",
     "gsap": "^3.6.0",
     "katex": "^0.11.1",
-    "node-sass": "^7.0.0",
     "prismjs": "^1.17.1",
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
@@ -32,8 +31,8 @@
     "react-helmet": "^5.2.1",
     "react-multi-carousel": "^2.6.1",
     "react-particles-js": "^2.7.0",
-    "semantic-ui-react": "^2.0.3",
     "rimraf": "^3.0.2",
+    "semantic-ui-react": "^2.0.3",
     "sharp": "^0.25.2",
     "tiled-hexagons": "^1.0.2",
     "typeface-fira-sans": "^0.0.75",
@@ -57,5 +56,8 @@
   },
   "bugs": {
     "url": "https://github.com/umisc/misc-website/issues"
+  },
+  "devDependencies": {
+    "sass": "^1.49.9"
   }
 }

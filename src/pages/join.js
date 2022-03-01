@@ -14,7 +14,7 @@ const JoinPage = () => {
       <Banner class_suffix="deep" />
       <div className="about-container">
         <div className="about-content">
-          <a href="https://forms.gle/7RGeuZL3scvfAigK8">
+          <a href="https://forms.gle/br6QcCSuscdsPNETA">
             <button className="signup-button">SIGN UP NOW</button>
           </a>
           <p>
@@ -26,12 +26,12 @@ const JoinPage = () => {
             <ol>
               <li>
                 Provide us with your details via the{" "}
-                <a href="https://forms.gle/7RGeuZL3scvfAigK8">sign up form</a>.
+                <a href="https://forms.gle/br6QcCSuscdsPNETA">sign up form</a>.
               </li>
               {/*<li>Come see us any time (e.g. workshops, events) to make payment, or see the signup form for bank details if you prefer to pay via bank transfer.</li>*/}
             </ol>
             {/*Membership is $5 annually for University of Melbourne students. <span style={{ fontSize: '9px' }}><br/>(very worth it for a year of weekly pizza and awesome events)</span>.*/}
-            There is no membership fee for the rest of 2020.
+            There is no membership fee for 2022.
             <br />
             <br />
             Feel free to join our{" "}
