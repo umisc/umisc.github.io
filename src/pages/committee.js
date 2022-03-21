@@ -15,6 +15,49 @@ const AboutPage = () => {
         <div className="about-content">
           <h1>Committee</h1>
           <center className="committee-tables">
+          <h4>2021 - 2022</h4>
+            <table style={{ fontFamily: "Source Code Pro" }}>
+              <thead>
+                <tr>
+                  <th>Name</th>
+                  <th>Position</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Arshia Arora</td>
+                  <td>President</td>
+                </tr>
+                <tr>
+                  <td>Proma Ali</td>
+                  <td>Secretary</td>
+                </tr>
+                <tr>
+                  <td>Apuroop Chunduri</td>
+                  <td>Treasurer</td>
+                </tr>
+                <tr>
+                  <td>Bowen Feng</td>
+                  <td>Education Director</td>
+                </tr>
+                <tr>
+                  <td>Seen Yan Lee</td>
+                  <td>Publicity Director</td>
+                </tr>
+                <tr>
+                  <td>Thanakon Kimsan</td>
+                  <td>Publicity Director</td>
+                </tr>
+                <tr>
+                  <td>Tristan Gao</td>
+                  <td>IT Director</td>
+                </tr>
+                <tr>
+                  <td>Sean Chen</td>
+                  <td>Events Director</td>
+                </tr>
+              </tbody>
+            </table>
             <h4>2020 - 2021</h4>
             <table style={{ fontFamily: "Source Code Pro" }}>
               <thead>

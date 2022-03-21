@@ -17,9 +17,9 @@ import "../styles/sponsers.sass";
 const SponsersPage = () => {
   return (
     <Layout>
-      <SEO title="Sponsers" />
+      <SEO title="Sponsors" />
       <div className="gallery-container">
-        <h1 className="gold-heading">Gold Sponsers</h1>
+        <h1 className="gold-heading">Gold Sponsors</h1>
         <div>
           <div className="sponsors-container">
             <div className="sponsors-logos">
@@ -66,7 +66,7 @@ const SponsersPage = () => {
             </div>
           </div>
         </div>
-        <h1 className="silver-heading">Silver Sponsers</h1>
+        <h1 className="silver-heading">Silver Sponsors</h1>
         <div className="sponsors-container">
           <div className="sponsors-logos">
             <a href="https://www.optiver.com/">

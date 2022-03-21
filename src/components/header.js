@@ -35,7 +35,7 @@ const Header = () => (
                 </li>
                 <li>
                     <AniLink fade duration={0.2} to="/sponsers" activeClassName="active" className="hvr-underline-from-center">
-                        SPONSERS
+                        SPONSORS
                     </AniLink>
                 </li>
             </ul>
