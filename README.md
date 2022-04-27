@@ -127,7 +127,7 @@ It might take a while to build (because of all the images).
 
 ## 👨‍💻 Contributors
 
-- Current maintainer - [Kaif Ahsan](https://github.com/verbal-noun) & [Kushal Jaiswal](https://github.com/kudy01)
+- Current maintainer - [Chuah Xin Yu](https://github.com/chuahxinyu) (unix#5664 on Discord)
 - Main contributor - [Joseph Surin](https://github.com/josephsurin) (joseph#8210 on Discord)
 - Gallery Page - [Asil Mian](https://github.com/asilmian)
 - MISC Logo Design - [Shevon Mendis](https://bookofshevon.com/)
