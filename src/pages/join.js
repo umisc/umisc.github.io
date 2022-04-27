@@ -23,14 +23,16 @@ const JoinPage = () => {
           </p>
           <h1>How To Join</h1>
           <p>
-            <ol>
+            Provide us with your details via the{" "}
+            <a href="https://forms.gle/br6QcCSuscdsPNETA">sign up form</a>.
+            {/* <ol>
               <li>
-                Provide us with your details via the{" "}
-                <a href="https://forms.gle/br6QcCSuscdsPNETA">sign up form</a>.
+                
               </li>
-              {/*<li>Come see us any time (e.g. workshops, events) to make payment, or see the signup form for bank details if you prefer to pay via bank transfer.</li>*/}
-            </ol>
+              <li>Come see us any time (e.g. workshops, events) to make payment, or see the signup form for bank details if you prefer to pay via bank transfer.</li>
+            </ol> */}
             {/*Membership is $5 annually for University of Melbourne students. <span style={{ fontSize: '9px' }}><br/>(very worth it for a year of weekly pizza and awesome events)</span>.*/}
+            <br />
             There is no membership fee for 2022.
             <br />
             <br />
